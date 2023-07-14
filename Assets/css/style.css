@@ -183,7 +183,7 @@ footer{
     }
     main  input{
         min-width: 80%;
-        position:absolute;
+        position:fixed;
         bottom:19rem;
     }
     .cidade{
