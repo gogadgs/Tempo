@@ -183,32 +183,32 @@ footer{
     }
     main  input{
         min-width: 80%;
-        position:fixed;
-        bottom:19rem;
+        position:relative;
+        bottom:5rem;
     }
     .cidade{
         font-size:1.5rem !important;
         position:relative;
-        bottom:0;
+        bottom:3rem;
     }
     .data{
         font-size: 1.2rem !important;
-        bottom:0;
+        bottom:3rem;
         position:relative;
     }
     .temperatura{
        position:relative;
-       bottom:1.5rem;
+       bottom:4.5rem;
     }
     .clima{
         font-size: 1.2rem !important;
         position:relative;
-        bottom:3rem;
+        bottom:7rem;
     }
     .maximaEMinima{
         font-size:.9rem! important ;
         position:relative;
-        bottom:4rem;
+        bottom:8rem;
     }
     footer{
         font-size:0.6rem !important;
